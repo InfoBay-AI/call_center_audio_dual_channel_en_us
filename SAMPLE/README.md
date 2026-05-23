@@ -4,5 +4,5 @@ Please note that the uploaded files do not represent the full dataset collection
 
 For access to the full dataset, custom data delivery, commercial usage, or enterprise licensing options, please visit InfoBay AI or contact us directly for further information.
 
-Ph: (91) 8303174762
-Email: datareq@infobay.ai
+    Ph: (91) 8303174762
+    Email: datareq@infobay.ai
